@@ -1,8 +1,6 @@
 # Memory Game
 
 
-Sure! Here's a point-wise description of a JavaScript memory game for your README file:
-
 1. Game Title: Memory Game
    - A classic memory game implemented using JavaScript.
 
@@ -33,6 +31,7 @@ Sure! Here's a point-wise description of a JavaScript memory game for your READM
 
 7. Scoring System:
    - The player's score is based on the number of successful matches made.
+     
    - Additional points can be awarded for completing the game within a shorter time or with fewer moves.
 
 8. Game Over:
